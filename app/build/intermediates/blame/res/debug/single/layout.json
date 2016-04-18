@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_menu_step_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_menu_step_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_view.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_main_view.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_menu_step_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_view_menu_step_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_update_notify.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_update_notify.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_classify.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_main_classify.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_list_menu_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_base_list_menu_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_classify__show_label_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_select_classify__show_label_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_menu_step_item_continue_add.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_menu_step_item_continue_add.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empyt_content.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\empyt_content.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_fragment_block_menu.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_base_fragment_block_menu.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_views_load_more_default_footer.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_views_load_more_default_footer.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_view_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_main_view_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_memu.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_memu.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_classify.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_select_classify.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_mine.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_main_mine.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_header_bar_title.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_base_header_bar_title.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_material_dialog.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_material_dialog.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_load_more_footer.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_view_load_more_footer.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_menu_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_menu_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_menu_ingredient_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_view_menu_ingredient_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_memu.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_view_memu.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_classify_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_select_classify_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_small_image_list_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\load_small_image_list_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress_dialog.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\load_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_photo_dialog.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\select_photo_dialog.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_block_menu_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_base_block_menu_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_show_menu_list.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\fragment_main_show_menu_list.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_classify_left_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_select_classify_left_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_content_frame_with_title_header.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44.33-SNAPSHOT\\res\\layout\\cube_mints_base_content_frame_with_title_header.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_menu_step.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_menu_step.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_menu_steps.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\layout\\activity_add_menu_steps.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    }
+]

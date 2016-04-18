@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/top_bar_background" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="分类"
+            android:textColor="@color/home_bottom_active"
+            android:textSize="@dimen/top_bar_text_size" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <ListView
+            android:id="@+id/lv_activity_select_classify"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="2"
+            android:background="@color/top_bar_background"
+            android:divider="@null" >
+        </ListView>
+
+        <GridView
+            android:id="@+id/gv_activity_select_classify"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="5"
+            android:background="#fff"
+            android:columnWidth="20dp"
+            android:horizontalSpacing="3dp"
+            android:numColumns="3"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp"
+            android:scrollbars="none"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <HorizontalScrollView
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+  			android:layout_weight="1"
+  			android:scrollbars="none"
+            android:background="@color/main_background_color" >
+
+            <LinearLayout
+                android:id="@+id/layout_activity_select_classify_show_label"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@color/main_background_color"
+                
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/tv_activity_select_classify_confirm"
+            android:layout_width="70dp"
+            android:textSize="14sp"
+            android:layout_height="fill_parent"
+            android:background="@color/home_bottom_active"
+            android:gravity = "center"
+            android:layout_gravity="center"
+            android:text="确定" />
+    </LinearLayout>
+
+</LinearLayout>

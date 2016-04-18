@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="2dp"
+    android:background="@color/main_background_color"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#fff"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/txt_ingredient"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@null"
+            android:hint="食材名"
+            android:maxWidth="200dp"
+            android:minWidth="150dp"
+            android:paddingLeft="10dp"
+            android:singleLine="true" >
+        </EditText>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="#ccc" />
+
+        <EditText
+            android:id="@+id/txt_add_menu_use_level"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@null"
+            android:hint="用量"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:width="60dp" >
+        </EditText>
+
+        <TextView
+            android:id="@+id/tv_add_menu_unit"
+            android:layout_width="40dp"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+           
+            android:text="单位" />
+        <ImageView
+            android:id="@+id/iv_activity_add_menu_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ico_add_menu_arrow_down" >
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/iv_activity_add_menu_del_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ico_add_menu_del_item" >
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>

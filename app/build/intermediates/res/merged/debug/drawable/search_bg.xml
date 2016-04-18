@@ -1,0 +1,28 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 圆角 -->
+    <corners
+        android:bottomLeftRadius="18dp"
+        android:bottomRightRadius="18dp"
+        android:radius="20dp"
+        android:topLeftRadius="18dp"
+        android:topRightRadius="18dp" />
+
+
+
+
+    <!-- 填充-->
+    <solid
+        android:color="@color/white"
+        />
+    <!--描边
+    <stroke
+        android:width="2dp"
+        android:color="#ccc"
+        android:dashWidth="1dp"
+        android:dashGap="2dp"/>
+
+        -->
+
+</shape>

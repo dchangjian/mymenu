@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="200dp"
+    android:background="#f9f9f9"
+    android:orientation="horizontal" >
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="#dcdcdc" >
+    </View>
+
+    <LinearLayout
+        android:id="@+id/layout_add_menu_step_item"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#f9f9f9"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#dcdcdc" >
+        </View>
+
+        <ImageView
+            android:id="@+id/iv_activity_add_menu_steps_item_upload_photo"
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            android:background="#f2f2f2"
+            android:scaleType="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/empty_photo" >
+        </ImageView>
+
+        <TextView
+            android:id="@+id/tv_activity_add_menu_steps_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="#f9f9f9"
+            android:gravity="center"
+            android:singleLine="true"
+
+            android:text="先放盐，再放油"
+            android:textColor="@color/black"
+            android:textSize="15sp" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/tv_activity_add_menu_steps_menu_item_del"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:background="#f2f2f2"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="删除该步骤" >
+        </TextView>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#dcdcdc" >
+        </View>
+    </LinearLayout>
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="#dcdcdc" >
+    </View>
+
+</LinearLayout>

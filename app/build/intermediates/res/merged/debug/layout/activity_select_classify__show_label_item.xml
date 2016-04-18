@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:layout_margin="5dp"
+	android:layout_gravity="center_vertical"
+	android:gravity="center_vertical"
+    android:background="@color/main_background_color" >
+    <TextView
+        android:id="@+id/tv_activity_select_classify_item"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:text="白菜"
+        android:textSize="13sp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:gravity="center"
+        
+        android:background="@drawable/activity_select_classify_show_label_item_bg"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      	android:layout_marginLeft="55dp"
+      	android:layout_alignParentTop="true"
+      	android:layout_marginTop="3dp"
+        android:src="@drawable/show_classify_label"
+        ></ImageView>
+</RelativeLayout>

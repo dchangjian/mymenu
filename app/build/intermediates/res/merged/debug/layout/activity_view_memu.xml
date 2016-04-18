@@ -1,0 +1,146 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/top_bar_background">
+
+        <ImageView
+            android:id="@+id/iv_activity_view_menu_back"
+            android:layout_width="40dp"
+            android:layout_height="80dp"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:src="@drawable/topbar_ico_back"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="菜谱详细"
+            android:textColor="@color/home_bottom_active"
+            android:textSize="@dimen/top_bar_text_size" />
+
+
+    </RelativeLayout>
+
+    <!-- scorllView,下面的整个布局都是 -->
+
+    <FrameLayout
+        android:id="@+id/layout_activity_view_menu_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="200dp"
+            android:indeterminateDrawable="@drawable/image_progress"></ProgressBar>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <!-- 因为scrollView只能有一个孩子，所以要用该布局包起来 -->
+            <LinearLayout
+                android:id="@+id/layout_content"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <in.srain.cube.image.CubeImageView
+                    android:id="@+id/iv_activity_view_menu_face_photo"
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/empty_photo" />
+
+                <TextView
+                    android:id="@+id/tv_activity_view_menu_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="酸菜鱼"
+                    android:textColor="@color/black"
+                    android:textSize="25sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="主料"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />
+
+                <com.menu.viewmenu.view.MyListView
+                    android:id="@+id/lv_activity_view_menu_main_ingredient"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:divider="#ccc"
+                    android:dividerHeight="1dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="辅料"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />
+
+                <com.menu.viewmenu.view.MyListView
+                    android:id="@+id/lv_activity_view_menu_assistant_ingredient"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:divider="#ccc"
+                    android:dividerHeight="1dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="做法"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />
+
+                <com.menu.viewmenu.view.MyListView
+                    android:id="@+id/lv_activity_view_menu_steps"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@null" />
+
+
+                <Button
+                    android:id="@+id/btn_activity_view_menu_update_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@color/home_bottom_active"
+                    android:text="保存这道菜"
+                    android:textColor="#f5f5f5" />
+
+            </LinearLayout>
+
+        </ScrollView>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

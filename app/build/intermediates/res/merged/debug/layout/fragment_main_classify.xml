@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/top_bar_background">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="菜谱分类"
+            android:textColor="@color/home_bottom_active"
+
+            android:textSize="@dimen/top_bar_text_size"></TextView>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ebebeb"
+       >
+
+        <EditText
+            android:id="@+id/tv_fragment_main_classify_search_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_bg"
+            android:hint="搜菜谱 如: 西红柿炒鸡蛋或排骨"
+            android:drawablePadding="10dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="20dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:singleLine="true"
+            android:textColor="#ebebeb"
+            android:editable="false"
+            android:layout_centerVertical="true"
+            android:drawableLeft="@drawable/ico_search"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+
+        android:orientation="horizontal" >
+
+        <ListView
+            android:id="@+id/lv_fragment_select_classify"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="2"
+            android:background="@color/top_bar_background"
+            android:scrollbars="none"
+            android:divider="@null" >
+        </ListView>
+
+        <GridView
+            android:id="@+id/gv_fragment_select_classify"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="5"
+            android:background="#fff"
+            android:columnWidth="20dp"
+            android:horizontalSpacing="3dp"
+            android:numColumns="3"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp"
+            android:scrollbars="none"
+            android:stretchMode="columnWidth"
+
+            android:verticalSpacing="10dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

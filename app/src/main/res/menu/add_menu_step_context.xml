@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mymenu.MainActivity">
+
+    <item
+        android:id="@+id/menu_item_take_photo"
+        android:orderInCategory="100"
+        android:title="@string/take_photo"/>
+    
+    <item
+        android:id="@+id/menu_item_get_photo_from_album"
+        android:title="@string/get_photo_from_album"/>
+</menu>

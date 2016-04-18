@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_menu_step_context.xml",
+        "source": "D:\\study\\study_code\\android\\android_studio\\mymenu1\\app\\src\\main\\res\\menu\\add_menu_step_context.xml"
+    }
+]

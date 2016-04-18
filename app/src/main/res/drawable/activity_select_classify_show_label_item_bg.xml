@@ -1,0 +1,16 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >  
+  
+   <!-- 圆角 -->  
+   <corners  
+       android:bottomLeftRadius="8dp"  
+       android:bottomRightRadius="8dp"  
+       android:radius="18dp"  
+       android:topLeftRadius="8dp"  
+       android:topRightRadius="8dp" />  
+  
+   <!-- 描边 -->  
+   <solid  
+       android:width="2dp"  
+       android:color="@color/home_bottom_active" />  
+  
+</shape> 

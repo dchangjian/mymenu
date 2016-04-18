@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical" >
+
+   	<RelativeLayout
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="@dimen/title_bar_height"
+   	    android:background="@color/top_bar_background">
+   	    
+   	    <TextView
+   	        android:layout_width="wrap_content"
+   	        android:layout_height="wrap_content"
+   	        android:textSize="@dimen/top_bar_text_size"
+   	        android:text="我的"
+ 			android:textColor="@color/home_bottom_active"
+   	        android:layout_centerInParent="true"></TextView>
+   	</RelativeLayout>
+	
+   	<ScrollView
+   	    android:layout_width="fill_parent"
+   	    android:layout_height="0dp"
+   	    android:layout_weight="1">
+   	    
+   	     <RelativeLayout
+        android:id="@+id/layout_mine_add_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/item_click"
+        android:clickable="true" >
+
+        <ImageView
+            android:id="@+id/iv_ico_center_camera"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ico_center_camera" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+           	
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/iv_ico_center_camera"
+            android:text="添加菜谱"
+            
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+             android:scaleType="fitCenter"
+             android:layout_marginRight="10dp"
+             android:layout_alignParentRight="true"
+            android:src="@drawable/arrow_right_gray"></ImageView>
+    </RelativeLayout>
+   	</ScrollView>
+</LinearLayout>

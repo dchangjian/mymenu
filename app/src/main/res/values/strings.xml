@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mymenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+	<string name="take_photo">拍照</string>
+	<string name="get_photo_from_album">从相册获取</string>
+</resources>

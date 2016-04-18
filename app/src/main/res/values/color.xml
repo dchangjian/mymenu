@@ -1,0 +1,24 @@
+<resources>
+  <!-- red -->
+  <color name="home_bottom_active">#f74444</color>
+  <!-- gray -->
+  <color name="home_bottom">#9b9b9b</color>
+	<!-- title bar bground -->	
+  <color name="top_bar_background">#f8f8f8</color>
+  
+  
+  <color name="main_background_color">#ebebeb</color>
+  
+  <color name="white">#ffffff</color>
+  
+  <color name="gray">#cccccc</color>
+  
+  <color name="black">#000000</color>
+  
+  <color name = "take_photo_bg">#ea8080</color>
+
+  <color name="radio_button_selected_color">#ff33b5e5</color>
+  <color name="radio_button_unselected_color">@android:color/transparent</color>
+
+  <color name="transparent">@android:color/transparent</color>
+</resources>

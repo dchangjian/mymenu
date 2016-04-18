@@ -1,0 +1,44 @@
+//声明是android程序
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        applicationId "com.menu.activity"
+        minSdkVersion 14
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    //编译libs下的所有jar包
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:design:22.2.1'
+    compile('in.srain.cube:cube-sdk:1.0.44.33-SNAPSHOT@aar') {
+        exclude group: 'in.srain.cube', module: 'clog'
+    }
+    compile 'in.srain.cube:ultra-ptr:1.0.11'
+
+    compile 'in.srain.cube:clog:1.0.2'
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
+    //节选器
+    compile 'info.hoang8f:android-segmented:1.0.6'
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+    //imageLoader
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+}
